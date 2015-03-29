@@ -7,12 +7,31 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		A10823241AC7A59100D0A1CC /* grey.png in Resources */ = {isa = PBXBuildFile; fileRef = A10823231AC7A59100D0A1CC /* grey.png */; };
+		A10823261AC7A9D500D0A1CC /* dracoorkimopening.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A10823251AC7A9D500D0A1CC /* dracoorkimopening.jpg */; };
+		A10823281AC7AD4000D0A1CC /* kimcryforthing.png in Resources */ = {isa = PBXBuildFile; fileRef = A10823271AC7AD4000D0A1CC /* kimcryforthing.png */; };
+		A108232C1AC7B2D000D0A1CC /* dracoios.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A10823291AC7B2D000D0A1CC /* dracoios.jpg */; };
+		A108232D1AC7B2D000D0A1CC /* stadiumios.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A108232A1AC7B2D000D0A1CC /* stadiumios.jpg */; };
+		A108232E1AC7B2D000D0A1CC /* kimstandios.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A108232B1AC7B2D000D0A1CC /* kimstandios.jpg */; };
+		A151F9EF1AC7482900BF8321 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A151F9ED1AC7482900BF8321 /* Main.storyboard */; };
+		A151F9F11AC755B300BF8321 /* kimpotter.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A151F9F01AC755B300BF8321 /* kimpotter.jpg */; };
+		A151F9F31AC755BD00BF8321 /* dracopotter.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A151F9F21AC755BD00BF8321 /* dracopotter.jpg */; };
+		A151F9F51AC7A24400BF8321 /* black.png in Resources */ = {isa = PBXBuildFile; fileRef = A151F9F41AC7A24400BF8321 /* black.png */; };
 		A1565B0B1AC7228800415EEF /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1565B0A1AC7228800415EEF /* AppDelegate.swift */; };
 		A1565B0D1AC7228800415EEF /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1565B0C1AC7228800415EEF /* ViewController.swift */; };
-		A1565B101AC7228800415EEF /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A1565B0E1AC7228800415EEF /* Main.storyboard */; };
 		A1565B121AC7228800415EEF /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A1565B111AC7228800415EEF /* Images.xcassets */; };
 		A1565B151AC7228800415EEF /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = A1565B131AC7228800415EEF /* LaunchScreen.xib */; };
 		A1565B211AC7228800415EEF /* DracoorKimTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1565B201AC7228800415EEF /* DracoorKimTests.swift */; };
+		A1565B2B1AC723B700415EEF /* green.png in Resources */ = {isa = PBXBuildFile; fileRef = A1565B2A1AC723B700415EEF /* green.png */; };
+		A1565B2E1AC7299E00415EEF /* kimdone.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A1565B2C1AC7299E00415EEF /* kimdone.jpg */; };
+		A1565B2F1AC7299E00415EEF /* dracodone.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A1565B2D1AC7299E00415EEF /* dracodone.jpg */; };
+		A1565B311AC72DE000415EEF /* popupviewcontroller.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1565B301AC72DE000415EEF /* popupviewcontroller.swift */; };
+		A1565B331AC730D900415EEF /* popupkimviewcontroller.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1565B321AC730D900415EEF /* popupkimviewcontroller.swift */; };
+		A1565B351AC7369A00415EEF /* 1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A1565B341AC7369A00415EEF /* 1.jpg */; };
+		A1565B371AC7387800415EEF /* kimcry.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1565B361AC7387800415EEF /* kimcry.swift */; };
+		A1565B391AC7388400415EEF /* dracocry.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1565B381AC7388400415EEF /* dracocry.swift */; };
+		A1565B3C1AC73A3F00415EEF /* article-1324727-00000DBB00000CB2-257_468x415.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A1565B3A1AC73A3F00415EEF /* article-1324727-00000DBB00000CB2-257_468x415.jpg */; };
+		A1565B3D1AC73A3F00415EEF /* tumblr_mbjbg94wxP1qe759to1_500.png in Resources */ = {isa = PBXBuildFile; fileRef = A1565B3B1AC73A3F00415EEF /* tumblr_mbjbg94wxP1qe759to1_500.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -26,16 +45,35 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		A10823231AC7A59100D0A1CC /* grey.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = grey.png; sourceTree = "<group>"; };
+		A10823251AC7A9D500D0A1CC /* dracoorkimopening.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = dracoorkimopening.jpg; sourceTree = "<group>"; };
+		A10823271AC7AD4000D0A1CC /* kimcryforthing.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = kimcryforthing.png; sourceTree = "<group>"; };
+		A10823291AC7B2D000D0A1CC /* dracoios.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = dracoios.jpg; sourceTree = "<group>"; };
+		A108232A1AC7B2D000D0A1CC /* stadiumios.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = stadiumios.jpg; sourceTree = "<group>"; };
+		A108232B1AC7B2D000D0A1CC /* kimstandios.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = kimstandios.jpg; sourceTree = "<group>"; };
+		A151F9EE1AC7482900BF8321 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		A151F9F01AC755B300BF8321 /* kimpotter.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = kimpotter.jpg; sourceTree = "<group>"; };
+		A151F9F21AC755BD00BF8321 /* dracopotter.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = dracopotter.jpg; sourceTree = "<group>"; };
+		A151F9F41AC7A24400BF8321 /* black.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = black.png; sourceTree = "<group>"; };
 		A1565B051AC7228800415EEF /* DracoorKim.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = DracoorKim.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A1565B091AC7228800415EEF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		A1565B0A1AC7228800415EEF /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		A1565B0C1AC7228800415EEF /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		A1565B0F1AC7228800415EEF /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		A1565B111AC7228800415EEF /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
 		A1565B141AC7228800415EEF /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/LaunchScreen.xib; sourceTree = "<group>"; };
 		A1565B1A1AC7228800415EEF /* DracoorKimTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = DracoorKimTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		A1565B1F1AC7228800415EEF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		A1565B201AC7228800415EEF /* DracoorKimTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DracoorKimTests.swift; sourceTree = "<group>"; };
+		A1565B2A1AC723B700415EEF /* green.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = green.png; sourceTree = "<group>"; };
+		A1565B2C1AC7299E00415EEF /* kimdone.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = kimdone.jpg; sourceTree = "<group>"; };
+		A1565B2D1AC7299E00415EEF /* dracodone.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = dracodone.jpg; sourceTree = "<group>"; };
+		A1565B301AC72DE000415EEF /* popupviewcontroller.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = popupviewcontroller.swift; sourceTree = "<group>"; };
+		A1565B321AC730D900415EEF /* popupkimviewcontroller.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = popupkimviewcontroller.swift; sourceTree = "<group>"; };
+		A1565B341AC7369A00415EEF /* 1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 1.jpg; sourceTree = "<group>"; };
+		A1565B361AC7387800415EEF /* kimcry.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = kimcry.swift; sourceTree = "<group>"; };
+		A1565B381AC7388400415EEF /* dracocry.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = dracocry.swift; sourceTree = "<group>"; };
+		A1565B3A1AC73A3F00415EEF /* article-1324727-00000DBB00000CB2-257_468x415.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "article-1324727-00000DBB00000CB2-257_468x415.jpg"; sourceTree = "<group>"; };
+		A1565B3B1AC73A3F00415EEF /* tumblr_mbjbg94wxP1qe759to1_500.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = tumblr_mbjbg94wxP1qe759to1_500.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,11 +115,30 @@
 		A1565B071AC7228800415EEF /* DracoorKim */ = {
 			isa = PBXGroup;
 			children = (
+				A151F9ED1AC7482900BF8321 /* Main.storyboard */,
 				A1565B0A1AC7228800415EEF /* AppDelegate.swift */,
 				A1565B0C1AC7228800415EEF /* ViewController.swift */,
-				A1565B0E1AC7228800415EEF /* Main.storyboard */,
-				A1565B111AC7228800415EEF /* Images.xcassets */,
+				A1565B361AC7387800415EEF /* kimcry.swift */,
+				A1565B381AC7388400415EEF /* dracocry.swift */,
+				A1565B301AC72DE000415EEF /* popupviewcontroller.swift */,
+				A1565B321AC730D900415EEF /* popupkimviewcontroller.swift */,
 				A1565B131AC7228800415EEF /* LaunchScreen.xib */,
+				A1565B111AC7228800415EEF /* Images.xcassets */,
+				A10823291AC7B2D000D0A1CC /* dracoios.jpg */,
+				A108232A1AC7B2D000D0A1CC /* stadiumios.jpg */,
+				A108232B1AC7B2D000D0A1CC /* kimstandios.jpg */,
+				A1565B341AC7369A00415EEF /* 1.jpg */,
+				A10823271AC7AD4000D0A1CC /* kimcryforthing.png */,
+				A10823251AC7A9D500D0A1CC /* dracoorkimopening.jpg */,
+				A10823231AC7A59100D0A1CC /* grey.png */,
+				A151F9F01AC755B300BF8321 /* kimpotter.jpg */,
+				A151F9F21AC755BD00BF8321 /* dracopotter.jpg */,
+				A1565B3B1AC73A3F00415EEF /* tumblr_mbjbg94wxP1qe759to1_500.png */,
+				A1565B3A1AC73A3F00415EEF /* article-1324727-00000DBB00000CB2-257_468x415.jpg */,
+				A1565B2D1AC7299E00415EEF /* dracodone.jpg */,
+				A151F9F41AC7A24400BF8321 /* black.png */,
+				A1565B2C1AC7299E00415EEF /* kimdone.jpg */,
+				A1565B2A1AC723B700415EEF /* green.png */,
 				A1565B081AC7228800415EEF /* Supporting Files */,
 			);
 			path = DracoorKim;
@@ -192,9 +249,24 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				A1565B101AC7228800415EEF /* Main.storyboard in Resources */,
+				A151F9F51AC7A24400BF8321 /* black.png in Resources */,
+				A1565B3D1AC73A3F00415EEF /* tumblr_mbjbg94wxP1qe759to1_500.png in Resources */,
+				A151F9EF1AC7482900BF8321 /* Main.storyboard in Resources */,
+				A1565B2E1AC7299E00415EEF /* kimdone.jpg in Resources */,
+				A151F9F11AC755B300BF8321 /* kimpotter.jpg in Resources */,
 				A1565B151AC7228800415EEF /* LaunchScreen.xib in Resources */,
+				A108232E1AC7B2D000D0A1CC /* kimstandios.jpg in Resources */,
 				A1565B121AC7228800415EEF /* Images.xcassets in Resources */,
+				A10823241AC7A59100D0A1CC /* grey.png in Resources */,
+				A1565B3C1AC73A3F00415EEF /* article-1324727-00000DBB00000CB2-257_468x415.jpg in Resources */,
+				A108232D1AC7B2D000D0A1CC /* stadiumios.jpg in Resources */,
+				A1565B2B1AC723B700415EEF /* green.png in Resources */,
+				A10823281AC7AD4000D0A1CC /* kimcryforthing.png in Resources */,
+				A1565B2F1AC7299E00415EEF /* dracodone.jpg in Resources */,
+				A10823261AC7A9D500D0A1CC /* dracoorkimopening.jpg in Resources */,
+				A151F9F31AC755BD00BF8321 /* dracopotter.jpg in Resources */,
+				A1565B351AC7369A00415EEF /* 1.jpg in Resources */,
+				A108232C1AC7B2D000D0A1CC /* dracoios.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -212,8 +284,12 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A1565B391AC7388400415EEF /* dracocry.swift in Sources */,
+				A1565B311AC72DE000415EEF /* popupviewcontroller.swift in Sources */,
 				A1565B0D1AC7228800415EEF /* ViewController.swift in Sources */,
 				A1565B0B1AC7228800415EEF /* AppDelegate.swift in Sources */,
+				A1565B331AC730D900415EEF /* popupkimviewcontroller.swift in Sources */,
+				A1565B371AC7387800415EEF /* kimcry.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -236,10 +312,10 @@
 /* End PBXTargetDependency section */
 
 /* Begin PBXVariantGroup section */
-		A1565B0E1AC7228800415EEF /* Main.storyboard */ = {
+		A151F9ED1AC7482900BF8321 /* Main.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				A1565B0F1AC7228800415EEF /* Base */,
+				A151F9EE1AC7482900BF8321 /* Base */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
@@ -405,6 +481,7 @@
 				A1565B261AC7228800415EEF /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		A1565B271AC7228800415EEF /* Build configuration list for PBXNativeTarget "DracoorKimTests" */ = {
 			isa = XCConfigurationList;
@@ -413,6 +490,7 @@
 				A1565B291AC7228800415EEF /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
